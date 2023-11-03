@@ -1,4 +1,4 @@
-'''# Pour mettre tous les caracter en minicule
+# Pour mettre tous les caracter en minicule
 caractere=input("Entre la phrase : ").lower()
 print("Le phrase en miniscule est ",str(caractere))
 
@@ -27,7 +27,7 @@ print("La phrase devient : ",rempl)
 print("\nMete yon chenn karaktè devan dèyè, answit mete l an majiskil.")
 inv=caractere.upper()
 print(inv[::-1])
-'''
+
 carac="Ayiti kapab avanse"
 for i in enumerate(carac):
     print(i)
